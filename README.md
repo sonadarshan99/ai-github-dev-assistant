@@ -32,11 +32,4 @@ Install required libraries:
 pip install streamlit pandas groq python-dotenv GitPython PyGithub
 
 ## 🎥 Demo Video
-
-> 📌 Place your video file in the repo as: `video.mp4`
-
-### ▶️ Option 1 (Recommended for GitHub)
-```html
-<video width="100%" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
+https://drive.google.com/file/d/1bP-yQeiNTcbb6lVAoF02vODKfV10d-MN/view?usp=sharing
